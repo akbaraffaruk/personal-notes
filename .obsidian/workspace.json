@@ -1,0 +1,161 @@
+{
+  "main": {
+    "id": "1e6c6f9bce0a323d",
+    "type": "split",
+    "children": [
+      {
+        "id": "de72d0fbffb29007",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4c93cf35fb84c513",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "master degree/Analisa Bisnis & Data Perusahaan/Sesi 5.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1cb78b79d659161f",
+    "type": "split",
+    "children": [
+      {
+        "id": "ec10709ec06f2636",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "335c8141215f8f21",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "94ea257188e90e64",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "4afe21fcc2b89a01",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "c19c10d3b71c384c",
+    "type": "split",
+    "children": [
+      {
+        "id": "6c5ce9aaef0f7376",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c9ccfc718b4f6e6d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "master degree/Analisa Bisnis & Data Perusahaan/Sesi 5.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1b747e9b7316c549",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "master degree/Analisa Bisnis & Data Perusahaan/Sesi 5.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "152506a069fa0bde",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "591fdeff4c06a337",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "master degree/Analisa Bisnis & Data Perusahaan/Sesi 5.md"
+              }
+            }
+          },
+          {
+            "id": "107d83941e2b2932",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "ribbon": {
+    "mostRecentAction": ""
+  },
+  "active": "107d83941e2b2932",
+  "lastOpenFiles": [
+    "master degree/IoT/Sink Node & Server Communication Using Restfull.md",
+    "2022-10-24.md",
+    "docker/docker-networking.md",
+    "docker/docker-file.md",
+    "docker/docker-compose.md",
+    "docker/docker.md",
+    "apps/argocd.md"
+  ]
+}
